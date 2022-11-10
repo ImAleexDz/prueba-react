@@ -33,3 +33,23 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # prueba-react
+
+La prueba se realizó para el dispositivo iPhone SE 
+
+Pantalla de inicio:
+
+![image](https://user-images.githubusercontent.com/68205327/201178007-4ea00e6f-886d-4dc1-a5dd-299b0151e60b.png)
+
+Pantalla de registro sin validación:
+
+![image](https://user-images.githubusercontent.com/68205327/201178141-56301e0b-d547-4bae-b6a5-5449455536cd.png)
+
+Pantalla de registro con validación:
+
+![image](https://user-images.githubusercontent.com/68205327/201178254-f7a2f92b-43c5-4e03-a0dc-226540b52261.png)
+
+Pantalla de detalle del BTC:
+
+![image](https://user-images.githubusercontent.com/68205327/201178335-08fbdf34-d70e-4cb9-a839-133e650edb86.png)
+
+

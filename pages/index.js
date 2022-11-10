@@ -16,7 +16,7 @@ export default function Home() {
 
         <section className="sc-h">
           <h2>
-            ¿Cuál es el valor actual del BTC?
+            ¿Cuál es el valor <br/>actual del BTC?
           </h2>
 
           <p className="mt-24 mb-37">
@@ -26,7 +26,7 @@ export default function Home() {
           <button>
             <Link href="/register">
               Iniciar
-              <FontAwesomeIcon icon={faArrowRight} width={24} height={24} />
+              <FontAwesomeIcon icon={faArrowRight} width={18} height={18} style={{marginLeft: "4px"}}/>
             </Link>
           </button>
         </section>
